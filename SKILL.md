@@ -3,7 +3,7 @@ name: extruded-logo-monolith
 description: "Drop in a transparent SVG (or PNG) logo and it becomes a glossy black 3D sculpture with bevelled edges, studio HDRI reflections, a mirror floor, and an animated rim-light sweep. Premium product-shot look for SaaS, agencies, and AI tools."
 metadata:
   author: "@ybouane"
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 ## How To Use This Skill
